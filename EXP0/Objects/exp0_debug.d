@@ -1,0 +1,9 @@
+.\objects\exp0_debug.o: exp0_debug.c
+.\objects\exp0_debug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exp0_debug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\exp0_debug.o: inc/hw_memmap.h
+.\objects\exp0_debug.o: inc/hw_types.h
+.\objects\exp0_debug.o: driverlib/debug.h
+.\objects\exp0_debug.o: driverlib/gpio.h
+.\objects\exp0_debug.o: driverlib/pin_map.h
+.\objects\exp0_debug.o: driverlib/sysctl.h

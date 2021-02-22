@@ -1,0 +1,10 @@
+.\objects\exp0_register.o: exp0_register.c
+.\objects\exp0_register.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exp0_register.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\exp0_register.o: inc/hw_memmap.h
+.\objects\exp0_register.o: inc/hw_types.h
+.\objects\exp0_register.o: driverlib/debug.h
+.\objects\exp0_register.o: driverlib/gpio.h
+.\objects\exp0_register.o: driverlib/pin_map.h
+.\objects\exp0_register.o: driverlib/sysctl.h
+.\objects\exp0_register.o: inc/tm4c1294ncpdt.h
